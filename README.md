@@ -1,4 +1,4 @@
-This project involves exploratino of methods to detect effluent detection which shows anamoly in the fluid temprature
+This project involves exploration for methods to detect effluent detection which shows anamoly in the fluid temprature
 
 <img width="1080" alt="thermal_analysis_20250109_152351" src="https://github.com/user-attachments/assets/d6cfae0e-5894-4f4a-9375-dc9c4b91efe8" />
 
